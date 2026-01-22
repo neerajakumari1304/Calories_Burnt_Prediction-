@@ -4,20 +4,20 @@ This repository contains an end-to-end Machine Learning project designed to pred
 ## Project Architecture
 The project is structured to separate concerns between data processing, model training, and deployment:
 
-*main.py*: The core engine. It manages the ML lifecycle including data loading, merging, imputation, feature engineering, and model training.
+**main.py**: The core engine. It manages the ML lifecycle including data loading, merging, imputation, feature engineering, and model training.
 
-* app.py *: A Flask web application that serves the trained model via a REST API to provide predictions to a frontend.
+**app.py**: A Flask web application that serves the trained model via a REST API to provide predictions to a frontend.
 
-log_code.py: A centralized logging utility that tracks the execution flow and captures errors across different modules.
+**log_code.py**: A centralized logging utility that tracks the execution flow and captures errors across different modules.
 
-Modular Scripts: The pipeline relies on external modules (referenced in main.py) for specific tasks:
+**Modular Scripts**: The pipeline relies on external modules (referenced in main.py) for specific tasks:
 
-missing_value.py: Handles data imputation.
+- **missing_value.py**: Handles data imputation.
 
-variable_transform.py: Manages outlier detection and transformations.
+- **variable_transform.py**: Manages outlier detection and transformations.
 
-feature_selection.py: Identifies the most impactful predictors.
+- **feature_selection.py**: Identifies the most impactful predictors.
 
-balance_data.py: Handles feature scaling and data balancing.
+- **balance_data.py**: Handles feature scaling and data balancing.
 
-model.py: Contains the Linear Regression model implementation.
+- **model.py**: Contains the Linear Regression model implementation.
