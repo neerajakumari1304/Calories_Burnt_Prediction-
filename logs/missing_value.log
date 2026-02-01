@@ -1,0 +1,97 @@
+2026-02-01 16:35:27,076 - INFO - total rows in training data: (12000, 7)
+2026-02-01 16:35:27,076 - INFO - total rows in testing data: (3000, 7)
+2026-02-01 16:35:27,076 - INFO - Before : Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')
+2026-02-01 16:35:27,076 - INFO - Before : Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')
+2026-02-01 16:35:27,077 - INFO - Before : Gender        0
+Age           0
+Height        0
+Weight        0
+Duration      0
+Heart_Rate    0
+Body_Temp     0
+dtype: int64
+2026-02-01 16:35:27,078 - INFO - Before : Gender        0
+Age           0
+Height        0
+Weight        0
+Duration      0
+Heart_Rate    0
+Body_Temp     0
+dtype: int64
+2026-02-01 16:35:27,078 - INFO - Random Sample Imputation Technique
+2026-02-01 16:35:27,078 - INFO - Total rows in training data : (12000, 7)
+2026-02-01 16:35:27,078 - INFO - Total rows in test data : (3000, 7)
+2026-02-01 16:35:27,078 - INFO - Before Technique X_train : Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')
+2026-02-01 16:35:27,078 - INFO - Before Technique X_test : Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')
+2026-02-01 16:35:27,079 - INFO - Before technique X_train : Gender        0
+Age           0
+Height        0
+Weight        0
+Duration      0
+Heart_Rate    0
+Body_Temp     0
+dtype: int64
+2026-02-01 16:35:27,079 - INFO - Before technique X_test : Gender        0
+Age           0
+Height        0
+Weight        0
+Duration      0
+Heart_Rate    0
+Body_Temp     0
+dtype: int64
+2026-02-01 16:35:27,080 - INFO - After Technique X_train : Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')
+2026-02-01 16:35:27,080 - INFO - After Technique X_test : Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')
+2026-02-01 16:35:27,081 - INFO - After Technique X_train : Gender        0
+Age           0
+Height        0
+Weight        0
+Duration      0
+Heart_Rate    0
+Body_Temp     0
+dtype: int64
+2026-02-01 16:35:27,081 - INFO - After Technique X_test : Gender        0
+Age           0
+Height        0
+Weight        0
+Duration      0
+Heart_Rate    0
+Body_Temp     0
+dtype: int64
+2026-02-01 16:35:27,081 - INFO - Total rows in training data : (12000, 7)
+2026-02-01 16:35:27,082 - INFO - Total rows in test data : (3000, 7)
+2026-02-01 16:35:27,082 - INFO - After : Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')
+2026-02-01 16:35:27,082 - INFO - After : Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')
+2026-02-01 16:35:27,083 - INFO - After : Gender        0
+Age           0
+Height        0
+Weight        0
+Duration      0
+Heart_Rate    0
+Body_Temp     0
+dtype: int64
+2026-02-01 16:35:27,083 - INFO - After : Gender        0
+Age           0
+Height        0
+Weight        0
+Duration      0
+Heart_Rate    0
+Body_Temp     0
+dtype: int64
+2026-02-01 16:35:27,083 - INFO - total rows in training data: (12000, 7)
+2026-02-01 16:35:27,083 - INFO - total rows in testing data: (3000, 7)

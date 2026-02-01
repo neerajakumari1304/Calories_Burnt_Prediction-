@@ -1,0 +1,29 @@
+2026-02-01 16:35:27,083 - INFO - Variable Transformation and Outlier Detection
+2026-02-01 16:35:27,083 - INFO - str
+2026-02-01 16:35:27,083 - INFO - int64
+2026-02-01 16:35:27,084 - INFO - float64
+2026-02-01 16:35:27,084 - INFO - float64
+2026-02-01 16:35:27,084 - INFO - float64
+2026-02-01 16:35:27,084 - INFO - float64
+2026-02-01 16:35:27,084 - INFO - float64
+2026-02-01 16:35:27,084 - INFO - Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')
+2026-02-01 16:35:27,084 - INFO - Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')
+2026-02-01 16:35:27,084 - INFO - Train columns: Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str') -> (12000, 7)
+2026-02-01 16:35:27,084 - INFO - Test columns: Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str') -> (3000, 7)
+2026-02-01 16:35:27,084 - INFO - Before Variable Transformation
+2026-02-01 16:35:27,442 - INFO - Error in Line no : 30: due to no numeric data to plot
+2026-02-01 16:35:27,442 - INFO - Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str') --> (12000, 7)
+2026-02-01 16:35:27,443 - INFO - Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str') --> (3000, 7)
+2026-02-01 16:35:27,443 - INFO - Variable Transformation Completed

@@ -1,0 +1,6 @@
+2026-02-01 16:35:27,501 - INFO - Scaling Data Before Regression
+2026-02-01 16:35:27,501 - INFO - Balancing data
+2026-02-01 16:35:27,503 - INFO - After scaling train: (12000, 7)
+2026-02-01 16:35:27,503 - INFO - After scaling test: (3000, 7)
+2026-02-01 16:35:27,503 - INFO - Columns: ['Age', 'Height', 'Weight', 'Duration', 'Heart_Rate', 'Body_Temp', 'Gender_male']
+2026-02-01 16:35:27,504 - INFO - Scaling completed successfully

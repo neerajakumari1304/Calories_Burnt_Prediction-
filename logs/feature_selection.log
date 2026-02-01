@@ -1,0 +1,13 @@
+2026-02-01 16:35:27,443 - INFO - Before : Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')->(12000, 7)
+2026-02-01 16:35:27,443 - INFO - Before : Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')->(3000, 7)
+2026-02-01 16:35:27,445 - INFO - Error in Line no : 23: due to could not convert string to float: 'male'
+2026-02-01 16:35:27,445 - INFO - After : Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')->(12000, 7)
+2026-02-01 16:35:27,445 - INFO - After : Index(['Gender', 'Age', 'Height', 'Weight', 'Duration', 'Heart_Rate',
+       'Body_Temp'],
+      dtype='str')->(3000, 7)

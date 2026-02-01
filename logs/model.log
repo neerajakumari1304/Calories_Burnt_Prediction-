@@ -1,0 +1,20 @@
+2026-02-01 16:35:27,504 - INFO - Linear Regression
+2026-02-01 16:35:27,506 - INFO - Intercept : 89.09541666666658
+2026-02-01 16:35:27,506 - INFO - Coefficient : [  8.49993643  -2.41358247   4.2962984   55.02693636  18.99300727
+ -13.1794759   -0.68708376]
+2026-02-01 16:35:27,510 - INFO -        y_train  y_train_pred_LR
+12111     58.0        56.525265
+5463      44.0        48.039476
+1845     166.0       162.623666
+1690      10.0         7.834374
+7389      76.0        74.985434
+1223     121.0       125.749900
+13078    125.0       134.782400
+10763    173.0       173.307951
+12050    156.0       166.480877
+1862      36.0        37.210528
+2026-02-01 16:35:27,510 - INFO - Training Accuracy (r2_score) Using Linear Regression : 0.9671621074066676
+2026-02-01 16:35:27,510 - INFO - Training Loss (Mean_squared_error) Using Linear Regression : 126.94582456688235
+2026-02-01 16:35:27,511 - INFO - Test Accuracy (r2_score) Using Linear Regression : 0.9672937151257295
+2026-02-01 16:35:27,511 - INFO - Test Loss (Mean_squared_error) Using Linear Regression : 131.9957457508171
+2026-02-01 16:35:27,512 - INFO - Prediction [-653.55275144]
